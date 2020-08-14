@@ -1,0 +1,31 @@
+.search-heading {
+  font-family: Poppins;
+  font-size: 36px;
+  font-weight: 600;
+  font-stretch: normal;
+  font-style: normal;
+  text-align: center;
+  color: #ffffff;
+  padding: 10px 0;
+}
+
+.search-location {
+  min-width: 245px;
+  height: 60px;
+  background-color: #ffffff;
+  margin: 10px;
+  border-radius: 20px;
+}
+
+.search-restaurant {
+  width: 477px;
+  height: 60px;
+  background-color: #ffffff;
+  margin: 10px;
+}
+
+.search-container {
+  background-image:  url('/assets/foodWallpaper.png');
+ /* background-color: black; */
+  background-repeat: no-repeat;
+}

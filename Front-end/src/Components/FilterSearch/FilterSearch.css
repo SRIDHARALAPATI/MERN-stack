@@ -1,0 +1,204 @@
+.header-search {
+    height: 70px;
+    font-family: Poppins;
+    font-size: 36px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.53;
+    letter-spacing: normal;
+    text-align: left;
+    color: #192f60;
+    margin: 2%;
+}
+
+.Rectangle-5 {
+    height: 700px;
+    -webkit-box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.16);
+    box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.16);
+    background-color: #ffffff;
+    margin-left: 10%;
+}
+
+.Filters {
+    height: 25px;
+    font-family: Poppins;
+    font-size: 18px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.5;
+    letter-spacing: normal;
+    text-align: left;
+    color: #192f60;
+    padding-left: 6%;
+}
+
+.Select-Location {
+    height: 40px;
+    font-family: Poppins;
+    font-size: 14px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 2.5;
+    letter-spacing: normal;
+    text-align: left;
+    color: #192f60;
+    margin-left: 7%;
+}
+
+.textbox {
+    width: 208px;
+    height: 35px;
+    border-radius: 3px;
+    border: solid 1px #8c96ab;
+    margin-right: 13%;
+}
+
+.Cost-For-Two {
+    height: 45px;
+    font-family: Poppins;
+    font-size: 14px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 3.5;
+    letter-spacing: normal;
+    text-align: left;
+    color: #192f60;
+    margin-left: 7%;
+}
+
+.Sort {
+    height: 45px;
+    font-family: Poppins;
+    font-size: 18px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 3.5;
+    letter-spacing: normal;
+    text-align: left;
+    color: #192f60;
+    margin-left: 7%;
+}
+
+.Item {
+    width: 875px;
+    height: 291px;
+    box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.16);
+    background-color: #ffffff;
+    margin-bottom: 20px;
+}
+
+.option-item {
+    font-family: Poppins;
+    font-size: 15px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.8;
+    letter-spacing: normal;
+    text-align: left;
+    color: #8c96ab;
+    margin-right: 100px;
+}
+
+.block {
+    display: block;
+}
+
+.inline-block {
+    display: inline-block;
+}
+
+.pagination>.active>a, .pagination>.active>a:focus, .pagination>.active>a:hover, .pagination>.active>span, .pagination>.active>span:focus, .pagination>.active>span:hover {
+    z-index: 3;
+    color: #fff;
+    cursor: default;
+    background-color: #8c96ab;
+    border-color: #8c96ab;
+}
+
+.The-Big-Chill-Cakery {
+    width: 584px;
+    height: 43px;
+    font-family: Poppins;
+    font-size: 30px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 2;
+    letter-spacing: normal;
+    text-align: left;
+    color: #192f60;
+}
+
+.Image {
+    width: 120px;
+    height: 120px;
+    border-radius: 23px;
+    background-color: #ea6060;
+}
+
+.FORT {
+    width: 185px;
+    height: 23px;
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 2.4;
+    letter-spacing: normal;
+    text-align: left;
+    color: #192f60;
+    margin-bottom: 7px;
+}
+
+.Shop-1-Plot-D-Samruddhi-Complex-Chincholi- {
+    width: 365px;
+    height: 23px;
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.5;
+    letter-spacing: normal;
+    text-align: left;
+    color: #636f88;
+}
+
+.row-height {
+    height: 60%;
+    padding-top: 4%;
+}
+
+.CUISINES-COST-FOR-TWO {
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.88;
+    letter-spacing: normal;
+    text-align: left;
+    color: #636f88;
+    padding-left: 25%;
+}
+
+.Bakery-700 {
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.88;
+    letter-spacing: normal;
+    text-align: left;
+    color: #192f60;
+}
+
+

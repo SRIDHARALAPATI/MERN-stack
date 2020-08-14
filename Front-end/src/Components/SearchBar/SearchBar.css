@@ -1,0 +1,97 @@
+.search-heading {
+  font-family: Poppins;
+  font-size: 36px;
+  font-weight: 600;
+  font-stretch: normal;
+  font-style: normal;
+  text-align: center;
+  color: #ffffff;
+  padding: 10px 0;
+}
+
+.search-location {
+  height: 60px;
+  background-color: #ffffff;
+  margin: 10px;
+  display: inline-block;
+}
+
+.logo {
+  font-family: Poppins;
+  font-size: 128px;
+  font-weight: 600;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.51;
+  letter-spacing: normal;
+  text-align: left;
+  color: #eb2929;
+  width: 147px;
+  height: 147px;
+  border-radius: 50%;
+  background-color: white;
+  vertical-align: middle;
+  text-align: center;
+  margin: auto;
+  line-height: 138px;
+}
+
+.logo-container {
+  padding: 0;
+  margin: 0;
+}
+
+.restaurant-name {
+  font-family: Poppins;
+  font-size: 16px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.88;
+  letter-spacing: normal;
+  text-align: left;
+  color: #192f60;
+}
+
+.restaurant-address {
+  font-family: Poppins;
+  font-size: 12px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 2.5;
+  letter-spacing: normal;
+  text-align: left;
+  color: #636f88;
+}
+
+.address-container {
+  padding: 0px 50px;
+}
+
+.restaurant-logo {
+  height: 43px;
+  width: 43px;
+  border-radius: 50%;
+}
+
+.rbt input {
+  height: 60px;
+  border-radius: 10px;
+}
+
+.search-restaurant {
+  height: 60px;
+  background-color: #ffffff;
+  margin: 10px;
+  display: inline-block;
+  border-radius: 10px;
+}
+
+.search-container {
+  background-image: url('/assets/foodWallpaper.png');
+  background-image: linear-gradient(to bottom, rgba(157, 14, 14, 0), #4f0707);
+  background-color: black;
+  min-height: 500px;
+  padding-top: 80px;
+}

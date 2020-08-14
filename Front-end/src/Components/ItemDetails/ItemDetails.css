@@ -1,0 +1,161 @@
+.image-containers {
+    width: 85%;
+    height: 352px;
+    margin: 52px;
+}
+
+.heading {
+    margin-left: 116px;
+    width: 477px;
+    height: 43px;
+    font-family: Poppins;
+    font-size: 30px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.53;
+    letter-spacing: normal;
+    text-align: left;
+    color: #192f60;
+}
+
+.overview {
+    width: 86px;
+    height: 25px;
+    font-family: Poppins;
+    font-size: 21px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.5;
+    letter-spacing: normal;
+    text-align: left;
+    color: #192f60;
+}
+
+.about {
+    width: 181px;
+    height: 30px;
+    font-family: Poppins;
+    font-size: 22px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 2.5;
+    letter-spacing: normal;
+    text-align: left;
+    color: #192f60;
+    margin-left: -20px;
+}
+
+.cuisine {
+    height: 25px;
+    font-family: Poppins;
+    font-size: 18px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.5;
+    letter-spacing: normal;
+    text-align: left;
+    color: #192f60;
+    margin-left: -20px;
+}
+
+.bakery {
+    width: 197px;
+    height: 30px;
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.88;
+    letter-spacing: normal;
+    text-align: left;
+    color: #192f60;
+    margin-left: -20px;
+}
+
+.phone-number {
+    width: 133px;
+    height: 25px;
+    font-family: Poppins;
+    font-size: 18px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 2.5;
+    letter-spacing: normal;
+    text-align: left;
+    color: #192f60;
+    margin-left: -20px;
+}
+
+.pdigit {
+    width: 124px;
+    height: 25px;
+    font-family: Poppins;
+    font-size: 18px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 2.5;
+    letter-spacing: normal;
+    text-align: left;
+    color: #f67082;
+    margin-left: -20px;
+}
+
+.bheader {
+    width: 179px;
+    height: 35px;
+    font-family: Poppins;
+    font-size: 18px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 2.5;
+    letter-spacing: normal;
+    text-align: left;
+    color: #192f60;
+    margin-left: -20px;
+}
+
+.address {
+    width: 359px;
+    height: 48px;
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.5;
+    letter-spacing: normal;
+    text-align: left;
+    color: #636f88;
+    margin-left: -20px;
+}
+
+.react-tabs__tab {
+    display: inline-block;
+    border: 1px solid transparent;
+    border-bottom: black 1px solid;
+    bottom: -1px;
+    position: relative;
+    list-style: none;
+    padding: 6px 12px;
+    cursor: pointer;
+}
+
+.react-tabs__tab-list {
+    border-bottom: 1px solid transparent;
+    margin: 10px 70% 10px 0px;
+    padding: 0;
+}
+
+.react-tabs__tab-panel--selected {
+    display: block;
+    text-align: left;
+    margin-left: 10%;
+}

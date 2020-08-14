@@ -1,0 +1,30 @@
+.quick-search-container {
+  background-color: #fbfbfb;
+}
+.quick-search-heading {
+  font-family: Poppins;
+  font-size: 30px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.53;
+  letter-spacing: normal;
+  text-align: left;
+  color: #192f60;
+  margin-left: 30px;
+  padding-top: 30px;
+}
+
+
+.quick-search-subheading {
+  font-family: Poppins;
+  font-size: 18px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.5;
+  letter-spacing: normal;
+  text-align: left;
+  color: #8c96ab;
+  margin-left: 30px;
+}
